@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Launcher icon: red rounded square with a white "M". Zero image files. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M28,10 h52 a14,14 0 0 1 14,14 v60 a14,14 0 0 1 -14,14 h-52 a14,14 0 0 1 -14,-14 v-60 a14,14 0 0 1 14,-14 z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="9"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M38,70 L38,40 L54,58 L70,40 L70,70" />
+</vector>
